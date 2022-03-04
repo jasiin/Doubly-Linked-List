@@ -263,7 +263,7 @@ int main()
         {
             int element;
             cout<<"Masukkan node yang akan dihapus=";
-   			cin>>element;
+	    cin>>element;
             deleteMid(element);
             printList();
         }
